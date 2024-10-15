@@ -38,13 +38,13 @@
                                     Dapatkan update 1.9.1 Versi AI dan Non AI
                                 </a>
                                 </p>
-                                <p>Update 23-06-2024</p>
+                                <p>Update 15-10-2024</p>
                                 <p>
-                                    Download Versi 2.1.0 NON AI: <a target='_blank' href='https://drive.google.com/file/d/1UXVNZrkPwse7NIMZtQ__2ZNV5BhOwE4f/view?usp=sharing'>Download</a>
+                                    Download Versi 2.1.0 NON AI: <a target='_blank' href='https://drive.google.com/file/d/1H7uNuyVJMx2jf122CcsgR8x3gqkbtPrZ/view?usp=sharing'>Download</a>
                                 </p>
-                                 <p>Update 23-06-2024</p>
+                                 <p>Update 15-10-2024</p>
                                 <p>
-                                    Download Versi 2.1.0 Gemini AI: <a target='_blank' href='https://drive.google.com/file/d/1YnKsEPBGMKg9-3VetuxoZYWqfmN340RF/view?usp=sharing'>Download</a>
+                                    Download Versi 2.1.0 Gemini AI: <a target='_blank' href='https://drive.google.com/file/d/1yxATGQSIr2SEti2BV2bBBOOfIkApL55J/view?usp=sharing'>Download</a>
                                 </p>
                                 <p>Versi AI ChatGPT menyusul</p>
                                 @if (Auth::user()->type_user === 'vip')

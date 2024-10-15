@@ -45,9 +45,8 @@
                     <p>
                         Info penting!
                     </p>
-                    <p>Untuk plugin SatriaBerita v2.1.0 sudah rilis tanggal 05-08-2024</p>
-                    <p>Untuk plugin SatriaBerita v2.1.0 + Gemini AI sudah rilis tanggal 05-08-2024</p>
-                    <p>Untuk plugin SatriaBerita v1.9.1 + AI sudah rilis tanggal 14-01-2024</p>
+                    <p>Untuk plugin SatriaBerita v2.1.2 sudah rilis tanggal 15-10-2024</p>
+                    <p>Untuk plugin SatriaBerita v2.1.2 + AI sudah rilis tanggal 15-10-2024</p>
                     <p>Untuk script anime streaming, bakal di buat ulang. Untuk yang sudah membeli akan
                         dihubungi kembali</p>
                     <hr />
